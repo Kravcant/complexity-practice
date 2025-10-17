@@ -229,6 +229,8 @@ public class Main {
   // their position in the playlist.
   // What would be a good choice of data structure?
   // YOUR ANSWER HERE
+  // Arraylist since it just needs to be added to the end of the users playlist.
+  // While being in order of insertion 
 
   // Suppose you are developing a search feature that keeps track of the user's
   // recent search queries. You want to store the queries in the order they were
