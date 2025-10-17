@@ -218,7 +218,7 @@ public class Main {
   // and access the current price for each stock. The order of the ticker symbols
   // is not important.
   // What would be a good choice of data structure?
-  // YOUR ANSWER HERE
+  // HashMap becuase it need a key of a ticker symbol.
 
   // Suppose you are building a music player application where users can create
   // playlists.
